@@ -1,8 +1,8 @@
 def parrot
   puts "Squawk!"
  return "Squawk!"
- puts "parrot(Pretty bird!)"
- "parrot(Pretty bird!)"
+ print "parrot(Pretty bird!)"
+ return"parrot(Pretty bird!)"
 end
 parrot
 
