@@ -4,4 +4,6 @@ def parrot
 end
 parrot
 def parrot_name
-  puts
+  puts"Pretty bird!"
+end
+parrot_name
