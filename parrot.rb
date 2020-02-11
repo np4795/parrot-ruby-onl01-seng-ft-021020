@@ -1,10 +1,8 @@
 def parrot
   puts "Squawk!"
  return "Squawk!"
- 
+ puts "parrot(Pretty bird)"
+ "parrot(Pretty bird!"
 end
 parrot
-def parrot_name(name)
-  puts "#{name}"
-end
-parrot_name("Pretty bird")
+
