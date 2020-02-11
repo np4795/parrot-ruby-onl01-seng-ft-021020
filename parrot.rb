@@ -1,8 +1,5 @@
 def parrot
   puts "Squawk!"
-end
-parrot
-def phrase
-  phrase=parrot
+  parrot=phrase
 end
 phrase
